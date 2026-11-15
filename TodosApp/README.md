@@ -26,7 +26,7 @@ Aplikasi ini dibuat untuk memahami konsep operasi CRUD pada aplikasi mobile: pen
 
 ## Tampilan Aplikasi
 
-| Daftar tugas | Tambah tugas | Ubah / hapus tugas |
+| Daftar tugas | Tambah tugas | Ubah tugas |
 |--------------|--------------|--------------------|
 | ![Daftar tugas](./screenshots/TodosApp1.jpeg) | ![Tambah tugas](./screenshots/TodosApp2.jpeg) | ![Ubah atau hapus](./screenshots/TodosApp3.jpeg) |
 
